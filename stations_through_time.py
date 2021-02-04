@@ -1,4 +1,4 @@
-#!/home/ahutko/anaconda3/bin/python
+#!/usr/bin/env python
 
 import requests
 import sys
